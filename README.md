@@ -1,0 +1,1 @@
+En este projecto se busca ver la implementacion del patron de software decorate en una pizzeria
